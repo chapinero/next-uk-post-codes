@@ -78,3 +78,5 @@ jobs:
         service: infante-service
         cluster: ecs-test
         wait-for-service-stability: true
+
+        
